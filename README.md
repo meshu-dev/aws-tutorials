@@ -1,4 +1,4 @@
-# Tutorials
+# AWS Tutorials
 
 This page shows a list of useful tutorials that I've gone through to expand my knowledge and experience.
 
@@ -15,3 +15,9 @@ This guide shows how to create a simple CRUD API that sends requests to a Lambda
 This guide shows how to setup and host a static website using the AWS Amplify service.
 
 [AWS Amplify - Host static site](https://aws.amazon.com/getting-started/hands-on/host-static-website)
+
+## AWS SAM (Serverless Application Model)
+
+This guide shows how to setup hello world lambda function using AWS SAM CLI.
+
+[AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
