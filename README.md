@@ -21,3 +21,9 @@ This guide shows how to setup and host a static website using the AWS Amplify se
 This guide shows how to setup hello world lambda function using AWS SAM CLI.
 
 [AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
+
+## AWS Toolkit for Visual Studio Code
+
+This guide shows setup AWS Toolkit to interact with AWS services within VS Code.
+
+[AWS Toolkit - VS Code](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/welcome.html)
